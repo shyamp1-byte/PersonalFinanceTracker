@@ -1,4 +1,4 @@
-# Personal Finance Tracker (ITCS 3112)
+# Personal Finance Tracker
 
 A simple, command-line based personal finance tracker built in Java. This program helps users manage their income, expenses, and savings goals while monitoring their budget and alerting them when they overspend.
 
